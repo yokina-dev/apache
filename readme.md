@@ -8,4 +8,4 @@
 >- `sudo apt-get autoremove --purge`
 
 # If you manually modified or installed stuff, apt might not remove it. Check what's left:
-`whereis apache2`
+>- `whereis apache2`
