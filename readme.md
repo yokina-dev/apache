@@ -1,4 +1,4 @@
-# Apache Necessary Command <img src="https://cdn.discordapp.com/attachments/863056311569481729/870672660001062942/apache-server-logo.png" width= "15%" align= "right">
+# Apache Necessary Command <img src="https://cdn.discordapp.com/attachments/863056311569481729/870672660001062942/apache-server-logo.png" width= "25%" align= "right">
 
 # First stop your server obviously:
 >- `sudo service apache2 stop`
