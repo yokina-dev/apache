@@ -1,6 +1,8 @@
-###
+# Apache Necessary Command
+<img src="https://cdn.discordapp.com/attachments/863056311569481729/870672660001062942/apache-server-logo.png" align="right">
+
 # First stop your server obviously:
-`sudo service apache2 stop`
+>- `sudo service apache2 stop`
 
 # Remove apache2 packages and dependencies:
 
